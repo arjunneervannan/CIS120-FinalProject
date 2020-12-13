@@ -3,7 +3,13 @@
 For my CIS120 Final Project (link to course here: https://www.seas.upenn.edu/~cis120/current/), I built chess. The game can be run by running Game.java (in src). A picture of the GUI is shown below:
 
 
+![alt text](https://github.com/arjunneervannan/CIS120-FinalProject/blob/main/starting.png?raw=true)
 
+*Starting the game*
+
+![alt text](https://github.com/arjunneervannan/CIS120-FinalProject/blob/main/checkmate.png?raw=true)
+
+*Checkmate*
 
 ## Code Structure
 
