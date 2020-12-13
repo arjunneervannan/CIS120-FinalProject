@@ -1,8 +1,7 @@
 For my CIS120 Final Project, I built chess
 
 
-
-#Code Structure
+## Code Structure
 
 Piece classes (Bishop, Queen, King, Rook, Pawn, Knight): These give the possible moves of each piece regardless of
 any other blockages/conflicts, since the individual pieces do not have any knowledge of the other pieces in the game.
