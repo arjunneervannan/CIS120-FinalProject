@@ -1,4 +1,8 @@
-For my CIS120 Final Project, I built chess
+## CIS 120 Final Project
+
+For my CIS120 Final Project (link to course here: https://www.seas.upenn.edu/~cis120/current/), I built chess. The game can be run by running Game.java (in src). A picture of the GUI is shown below:
+
+
 
 
 ## Code Structure
